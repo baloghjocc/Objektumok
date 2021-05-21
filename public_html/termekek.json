@@ -1,0 +1,31 @@
+[
+    {
+        "Név": "Botmixer",
+        "db": "1",
+        "Cikkszám": "1" ,
+        "Ár": "14200" ,
+        "Használt":"nem"
+    },
+    {
+       "Név": "Projektor",
+        "db": "2",
+        "Cikkszám": "2",
+        "Ár": "64000",
+        "Használt":"igen"
+    },
+    {
+       "Név": "Villanyborotva" ,
+        "db": "1",
+        "Cikkszám": "3",
+        "Ár": "46000",
+        "Használt": "nem"
+    },
+    {
+       "Név": "Porzívó",
+        "db": "3",
+        "Cikkszám": "4",
+        "Ár": "24000",
+        "Használt": "nem"
+    }
+
+]
